@@ -84,7 +84,8 @@
         "FIN Investments",
         "FIN Bank Financial Management Ventures"
       ]
-    }
+     }
+    ],
       {
      "institution": "Kapiolani Community College, Honolulu, HI",
       "area": "Liberal Arts in Business",
@@ -93,7 +94,8 @@
       "endDate": "2019-12-31",
       "gpa": "3.75",
     }
-  ],
+  ]
+},
   "awards": [
     {
       "title": "Honors and Awards: Dean’s List",
