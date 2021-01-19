@@ -49,12 +49,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Mandarin Chinese",
+        "Japanese"
       ]
     },
     {
@@ -62,10 +58,9 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows OS",
+        "Microsoft Suite"
       ]
     }
   ],
