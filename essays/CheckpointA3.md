@@ -42,7 +42,7 @@ var products_data;
 <strong>How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?</strong>
 
 I will give users their own session-id to manage their product data. 
-Also, I will set the time limit of how long users can keep login in.
+I will send cookie to check whether users are loging in or not. Also, I will set the time limit of how long users can keep login in.
 
 
 <strong>Upon a successful login, how do you provide personalization in your UI? Explain how you did or will do this (paste code if necessary)</strong>
@@ -63,3 +63,4 @@ I worked not well with this project to connect the login page and register page,
 <strong>How are you approaching Assignment 3 differently than Assignment 2?</strong>
 
 I am paying more attention and effort to solve problems as soon as possible when the problems are still simple.
+Also, I am trying to start work on it earlier than assignment2 to be able to spend more time on assignment3. 
