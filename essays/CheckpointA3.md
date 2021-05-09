@@ -54,7 +54,7 @@ I will send users a message with their usename, for example, Thank you for Shopp
 I am working on assignment 3 by myself.
 
 
-<strong>7. Describe what worked well with this project? What did not work well?</strong>
+<strong>Describe what worked well with this project? What did not work well?</strong>
 
 I worked well with this project to create a CSS file for each login and register page, save user data on my server, and connect the login page to the invoice page. 
 I worked not well with this project to connect the login page and register page, and send data of product quantity entered in the display page whenever move to other pages.
